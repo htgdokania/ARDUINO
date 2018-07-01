@@ -1,3 +1,4 @@
+//main code hand using 4 servo motors
 #include <Servo.h>
 
 Servo myservo1; 
